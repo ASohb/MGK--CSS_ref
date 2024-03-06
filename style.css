@@ -1,0 +1,23 @@
+
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+body{
+    background: linear-gradient(#c3cfe9 15%, #e2bff0 100%);
+}
+
+#titulo{
+    color: blueviolet;
+}
+
+.texto{
+    color: black;
+}
+
+footer{
+    background: linear-gradient(#721d8c 15%, #083469 100%);
+    color:  rgb(53, 229, 252);
+    padding: 16px 0;
+}
